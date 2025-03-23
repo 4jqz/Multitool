@@ -2,6 +2,9 @@
 
 A simple multitool that provides quick access to various network and security utilities.
 
+## Preview 📷
+![image](https://github.com/user-attachments/assets/5b31c5fd-1da8-43c8-a9cb-1b504e292c38)
+
 ## Features 🌟
 
 - 🔧 **ProcessHacker** - Manage and monitor system processes
